@@ -1,6 +1,6 @@
 # Studying Machine Learning: One Step at a Time
 
-This blog documents my journey into machine learning as a Biology and Neuroscience student with a foundational background in computer science. Before starting this journey, I completed introductory Python and Java courses, alongside a computational neuroscience course at my university. I familiarized myself with the majority of the programming concepts detailed in "Building Python Programs" by Stuart Reges, Marty Stepp, and Allison Obourn. 
+This blog documents my journey into machine learning as a Biology and Neuroscience student with a foundational background in computer science. Before starting this journey, I completed introductory Python and Java courses, alongside a computational neuroscience course at my university. Through these courses, I became familiar with the majority of the programming concepts detailed in "Building Python Programs" by Stuart Reges, Marty Stepp, and Allison Obourn. 
 
 In the three weeks leading up to the start of this blog, I dedicated my time to studying the following materials: 
   1. Coursera lectures on "Neural Networks and Deep Learning" and "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization," both taught by Andrew Ng.
